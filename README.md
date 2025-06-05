@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Data+Science+Enthusiast;Python+Developer;Always+Learning+Something+New" alt="Typing SVG" />
 </div>
-Mostrar imagen
+
 🚀 Sobre mí
 
 🌍 Ubicación: Colombia
